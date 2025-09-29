@@ -1,0 +1,58 @@
+﻿@model WeatherMVC.Models.WeatherViewModel
+
+@{
+    ViewData["Title"] = "Weather Search";
+}
+
+<div class="weather-container">
+    <h1>Weather Search</h1>
+
+    <!-- Search Form -->
+    <div class="search-box">
+        <form asp-controller="Home" asp-action="Index" method="post">
+            <div class="input-group">
+                <input type="text"
+                       name="city"
+                       placeholder="Enter city name..."
+                       class="city-input"
+                       value="@Model.CityName" />
+                <button type="submit" class="search-btn">Search</button>
+            </div>
+        </form>
+    </div>
+
+    <!-- Error Message -->
+    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <div class="error-message">
+            @Model.ErrorMessage
+        </div>
+    }
+
+    <!-- Weather Results -->
+    @if (!string.IsNullOrEmpty(Model.CityName) && string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <div class="weather-result">
+            <h2>@Model.CityName, @Model.Region</h2>
+            <p class="country">@Model.Country</p>
+
+            <div class="weather-info">
+                <img src="@Model.IconUrl" alt="@Model.Condition" class="weather-icon" />
+                <div class="temperature">@Model.Temperature°F</div>
+            </div>
+
+            <p class="condition">@Model.Condition</p>
+
+            <div class="additional-info">
+                <div class="info-item">
+                    <span class="label">Feels Like:</span>
+                    <span class="value">@Model.FeelsLike°F</span>
+                </div>
+                <div class="info-item">
+                    <span class="label">Humidity:</span>
+                    <span class="value">@Model.Humidity%</span>
+                </div>
+            </div>
+        </div>
+    }
+</div>
