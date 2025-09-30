@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc\\weathermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc - student\\weathermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc\\weathermvc\\models\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\models\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc\\weathermvc\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc\\weathermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc - student\\weathermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc\\weathermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc - student\\weathermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc\\weathermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc - student\\weathermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc\\weathermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc - student\\weathermvc\\models\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\models\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc\\weathermvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc - student\\weathermvc\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc - student\\weathermvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit255\\training module\\weathermvc - student\\weathermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DDBB9B-916A-4F74-920A-EB6E3A4BF2AD}|WeatherMVC\\WeatherMVC.csproj|solutionrelative:weathermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +46,23 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Program.cs",
               "RelativeDocumentMoniker": "WeatherMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Program.cs",
               "RelativeToolTip": "WeatherMVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T20:45:53.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T20:45:53.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\appsettings.json",
               "RelativeDocumentMoniker": "WeatherMVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\appsettings.json",
               "RelativeToolTip": "WeatherMVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -72,24 +71,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WeatherMVC\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\wwwroot\\css\\site.css",
               "RelativeToolTip": "WeatherMVC\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-09-29T20:43:34.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WeatherMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WeatherMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -98,13 +97,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WeatherMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WeatherMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-29T20:42:09.955Z",
               "EditorCaption": ""
@@ -113,22 +112,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WeatherMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WeatherMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T20:40:23.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WeatherViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Models\\WeatherViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Models\\WeatherViewModel.cs",
               "RelativeDocumentMoniker": "WeatherMVC\\Models\\WeatherViewModel.cs",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Models\\WeatherViewModel.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Models\\WeatherViewModel.cs",
               "RelativeToolTip": "WeatherMVC\\Models\\WeatherViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,13 +136,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "WeatherResponse.cs",
-              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Models\\WeatherResponse.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Models\\WeatherResponse.cs",
               "RelativeDocumentMoniker": "WeatherMVC\\Models\\WeatherResponse.cs",
-              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC\\WeatherMVC\\Models\\WeatherResponse.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT255\\Training Module\\WeatherMVC - Student\\WeatherMVC\\Models\\WeatherResponse.cs",
               "RelativeToolTip": "WeatherMVC\\Models\\WeatherResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T20:37:12.481Z",
               "EditorCaption": ""
